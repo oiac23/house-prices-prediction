@@ -21,3 +21,28 @@ Conteúdo do projeto:
     - ColumnTransformer
     - TransformedTargetRegressor
     - GridSearchCV
+
+
+# Final Project
+
+## Pós-Graduação em Inteligência Artificial Aplicada - Módulo 2
+
+Final project for the Machine Learning and Data Modelling for Artificial Intelligence courses. House selling prices prediction. Dataset with sales data [King County House Sales](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
+
+Project content:
+1. Exploratory data analysis
+    - Null values
+    - Outliers/discrepancies
+2. Pre-processing:
+    - Data validation
+    - Proper value replacement 
+    - Feature selection
+    - Normalization
+3. Model selection:
+    - Normalizations
+    - Regressors
+4. Tools (Scikit-learn):
+    - Pipeline
+    - ColumnTransformer
+    - TransformedTargetRegressor
+    - GridSearchCV
